@@ -86,7 +86,7 @@ Gold Price Prediction/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/maybeitsai/gold-price-prediction.git
+   git clone https://github.com/harrymardika/gold-price-prediction.git
    cd gold-price-prediction
    ```
 
@@ -220,7 +220,7 @@ The notebook includes comprehensive visualizations:
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the MIT License.
 
 ## 👥 Authors
 
@@ -237,8 +237,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For questions or collaboration opportunities:
 
-- GitHub: [@maybeitsai](https://github.com/maybeitsai)
-- Repository: [gold-price-prediction](https://github.com/maybeitsai/gold-price-prediction)
+- GitHub: [@harrymardika](https://github.com/harrymardika)
+- Repository: [gold-price-prediction](https://github.com/harrymardika/gold-price-prediction)
 
 ---
 
